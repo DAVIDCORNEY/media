@@ -1,0 +1,86 @@
+{
+  "users": [
+    {
+      "name": "Pedro Davis",
+      "id": 1
+    },
+    {
+      "name": "Mable Borer",
+      "id": 2
+    },
+    {
+      "name": "Jody Prosacco",
+      "id": 3
+    }
+  ],
+  "albums": [
+    {
+      "userId": 2,
+      "title": "Rustic Plastic Chips",
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "title": "Small Cotton Sausages",
+      "id": 15
+    },
+    {
+      "userId": 2,
+      "title": "Small Metal Car",
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "title": "Practical Granite Shirt",
+      "id": 18
+    },
+    {
+      "userId": 1,
+      "title": "Gorgeous Bronze Chips",
+      "id": 19
+    },
+    {
+      "userId": 3,
+      "title": "Handcrafted Metal Chair",
+      "id": 20
+    }
+  ],
+  "photos": [
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=7661418857889792",
+      "id": 1
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=2857875909115904",
+      "id": 2
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=5049272596692992",
+      "id": 3
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=5865727179358208",
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=349919764283392",
+      "id": 6
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=4762914774843392",
+      "id": 7
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=7966644745797632",
+      "id": 8
+    },
+    {
+      "albumId": 20,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7554482015567872",
+      "id": 9
+    }
+  ]
+}
